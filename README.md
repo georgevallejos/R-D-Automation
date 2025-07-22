@@ -11,14 +11,14 @@ R&D - Automation/
 │       │   │   └── TestRunner.java
 │       │   ├── stepDefinitions
 │       │   │   ├── LoginSteps.java
-│       │   │   └── InventorySteps.java
+│       │   │   └── EmployeesSteps.java
 │       │   ├── pages
 │       │   │   ├── LoginPage.java
-│       │   │   └── InventoryPage.java
+│       │   │   └── EmployeesPage.java
 │       │   └── utils
 │       │       ├── ConfigReader.java
 │       │       ├── ScreenshotUtil.java
-│       │       └── WebDriverManagerCore.java
+│       │       └── DriverManagerUtil.java
 │       └── resources
 │           ├── features
 │           │   └── Tests.feature
